@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415329277784",
+    "project_id": "sijil-app-18a8b",
+    "storage_bucket": "sijil-app-18a8b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415329277784:android:6882044b0a206cec33772d",
+        "android_client_info": {
+          "package_name": "com.example.sijil_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-eI7QRmWH6vnV2c5FHGoHTt6X_za7nYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
